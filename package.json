@@ -1,0 +1,23 @@
+{
+  "name": "dnd-average-cr",
+  "version": "1.0.0",
+  "description": "monster cr by type",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoBarrot/dnd-average-cr.git"
+  },
+  "keywords": [],
+  "author": "Francisco Barrot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoBarrot/dnd-average-cr/issues"
+  },
+  "homepage": "https://github.com/FranciscoBarrot/dnd-average-cr#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
